@@ -1,2 +1,2 @@
 # sudoker-api
-Sudoker RESTful API Implementatuon
+Sudoker RESTful API Implementation
